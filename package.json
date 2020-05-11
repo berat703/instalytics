@@ -20,7 +20,7 @@
   "dependencies": {
     "cookie": "^0.3.1",
     "install": "^0.11.0",
-    "instapro": "^3.0.1",
+    "instapro": "git+https://github.com/berat703/instapro.git",
     "sleep": "^5.1.1"
   },
   "keywords": [
